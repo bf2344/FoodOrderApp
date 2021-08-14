@@ -2,6 +2,7 @@ import { Route, Switch } from 'react-router-dom';
 
 import Welcome from './pages/Welcome';
 import Products from './pages/Products';
+import ProductDetail from './pages/ProductDetail';
 import MainHeader from './components/MainHeader/MainHeader';
 
 function App() {
